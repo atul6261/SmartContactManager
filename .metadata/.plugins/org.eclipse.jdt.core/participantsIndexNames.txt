@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+G:\springprojectPractice\SmartContactManager\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1039380087.index
+\SmartContactManager\src\main\resources
